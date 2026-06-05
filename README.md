@@ -1,4 +1,4 @@
-# 🛒 Olist Brazilian E-Commerce Dashboard (2016–2018)
+<img width="2075" height="1200" alt="Ecommerce Dashboard_page-0001" src="https://github.com/user-attachments/assets/15d9a6dd-039c-4da1-adde-4323b777ab32" /># 🛒 Olist Brazilian E-Commerce Dashboard (2016–2018)
 
 An interactive Power BI dashboard built to analyze the sales, logistics, 
 product performance, and customer behavior of Olist — a Brazilian e-commerce platform.
@@ -49,9 +49,17 @@ product performance, and customer behavior of Olist — a Brazilian e-commerce p
 ---
 
 ## 📸 Dashboard Preview
-*(Add screenshots of your 3 dashboard pages here)*
+### Orders & Logistics
+<img width="2075" height="1200" alt="Ecommerce Dashboard_page-0001" src="https://github.com/user-attachments/assets/5d90ac96-6004-451d-b50c-4a79ff3503fd" />
 
----
+
+### Product Performance
+<img width="2075" height="1200" alt="Ecommerce Dashboard_page-0002" src="https://github.com/user-attachments/assets/bc8bcb65-36ce-4cf1-b795-698eea64b133" />
+
+
+### Customer Insights
+<img width="2075" height="1200" alt="Ecommerce Dashboard_page-0003" src="https://github.com/user-attachments/assets/623b6074-e46f-424f-98b5-12bea72a3364" />
+
 
 ## 👩‍💻 Author
 **Shaiana**  
