@@ -1,5 +1,4 @@
-<img width="2075" height="1200" alt="Ecommerce Dashboard_page-0001" src="https://github.com/user-attachments/assets/15d9a6dd-039c-4da1-adde-4323b777ab32" /># 🛒 Olist Brazilian E-Commerce Dashboard (2016–2018)
-
+🛒 Olist Brazilian E-Commerce Dashboard (2016–2018)
 An interactive Power BI dashboard built to analyze the sales, logistics, 
 product performance, and customer behavior of Olist — a Brazilian e-commerce platform.
 
