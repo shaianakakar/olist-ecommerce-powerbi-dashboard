@@ -1,4 +1,5 @@
 🛒 Olist Brazilian E-Commerce Dashboard (2016–2018)
+
 An interactive Power BI dashboard built to analyze the sales, logistics, 
 product performance, and customer behavior of Olist — a Brazilian e-commerce platform.
 
